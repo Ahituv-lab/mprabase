@@ -1,2 +1,2 @@
 MPRAbase
-![alt text](http://url/to/img.png)
+![Figure1](figure1.png)
