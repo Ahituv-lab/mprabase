@@ -1,0 +1,4 @@
+pmid	reference	study_genome	dataset_file
+31395865	Kircher, M., Xiong, C., Martin, B. et al. Saturation mutagenesis of twenty disease-associated regulatory elements at single base-pair resolution. Nat Commun 10, 3583 (2019).	Homo sapiens (GRCh38/hg38)	GRCh38_ALL.tsv
+19915551_bac	Patwardhan, R., Lee, C., Litvin, O. et al. High-resolution analysis of DNA regulatory elements by synthetic saturation mutagenesis. Nat Biotechnol 27, 1173–1175 (2009).	Bacteriophage Promoters	Bacteriophage.tsv
+19915551_mam	Patwardhan, R., Lee, C., Litvin, O. et al. High-resolution analysis of DNA regulatory elements by synthetic saturation mutagenesis. Nat Biotechnol 27, 1173–1175 (2009).	Mammalian Core Promoters	Mammalian.tsv

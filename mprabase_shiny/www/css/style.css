@@ -1,0 +1,69 @@
+/*Theme alterations*/
+
+.navbar {
+  background-color: #263c80 !important;
+  min-height:80px !important;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+  background-color: #263c80 !important;
+  color: white !important;
+  height: 80px !important;
+  font-size:18px !important;
+  font-weight: bold !important;
+  display: flex !important; 
+  align-items: center !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.well {
+  background-color: white !important;
+}
+
+.panel-heading .panel-title a.collapsed:after {
+  transform: rotate(180deg);
+  transition: .5s ease-in-out;
+}
+.panel-heading .panel-title a:after {
+  content:'\23F6';
+  text-align: right;
+  float:right;
+  transition: .5s ease-in-out;
+}
+
+
+.multicol .shiny-options-group{
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3;    /* Firefox */
+	column-count: 3;
+	-moz-column-fill: balanced;
+	-column-fill: balanced;
+	margin-left: 0px !important;
+}
+.checkbox-inline {
+  margin-left: 0px !important;
+}
+
+.plot-container {
+  margin-bottom: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+.modebar-container {
+  position:absolute;
+  top: 100% !important;
+
+}
+.modebar {
+  position: absolute;
+  width:50% !important;
+  border:1px solid grey !important;
+
+}
+#variant_plot .modebar-container{
+    width:50% !important;
+
+}
